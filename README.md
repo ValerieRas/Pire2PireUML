@@ -14,7 +14,6 @@ Vous pouvez trouvez la conception de la BDD avec la méthodologie MERISE dans le
     - [Diagrammes de séquence](UML/sequence-diagrams.md)
     - [Diagramme de de classe](UML/class-diagram.md)
 5. [Règles de Gestion](Doc/management_rules.md)
-6. [Dictionnaire de Données](Doc/data_dictionnary.md)
 
 
 # Definition UML
