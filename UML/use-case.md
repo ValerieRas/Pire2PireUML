@@ -13,7 +13,8 @@
 ![use-case](IMAGE/use_case.png)
 
 
-Les flèches "Inclut" ne sont pas toutes représentées pour la lisibilité du diagramme mais tous les cas d'utilisation de l'apprenant, du formateur et de l'administrateur demandent à ce qu'ils soient connectés. 
+Les flèches "Inclut" ne sont pas toutes représentées pour la lisibilité du diagramme mais tous les cas d'utilisation de l'apprenant, du formateur et de l'administrateur demandent à ce qu'ils soient connectés.
+Le formateur hérite des cas d'utilisation de l'apprenant et l'administrateur hérite des cas d'utilisateur de tous les acteurs. 
 
 1. **Gérer les formations**
     - **Créer une formation** (Formateur)
